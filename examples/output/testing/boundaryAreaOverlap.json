@@ -1,0 +1,35 @@
+{
+  "metrics": [
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "645e67868d22030925e0b7e4",
+      "classId": "nearshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1768456005.8431938,
+      "extra": {
+        "sketchName": "testing"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "Feature",
+    "properties": {
+      "id": "645e67868d22030925e0b7e4",
+      "name": "testing",
+      "updatedAt": "2023-05-12T16:21:26.550Z",
+      "createdAt": "2023-05-12T16:21:26.550Z",
+      "sketchClassId": "60dd08af31c2945fed86b387",
+      "isCollection": false,
+      "userAttributes": []
+    },
+    "id": "1",
+    "bbox": [
+      72.17444113281168,
+      4.783116041722428,
+      72.74573019531152,
+      5.461544070811273
+    ],
+    "geometry": null
+  }
+}

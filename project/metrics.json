@@ -1,0 +1,13 @@
+[{
+  "metricId": "boundaryAreaOverlap",
+  "type": "areaOverlap",
+  "classes": [
+      {
+          "classId": "nearshore",
+          "display": "Nearshore",
+          "datasourceId": "nearshore_boundary",
+          "objectiveId": "nearshore",
+          "layerId": ""
+      }
+  ]
+}]

@@ -1,0 +1,42 @@
+[
+  {
+    "datasourceId": "global-clipping-osm-land",
+    "geo_type": "vector",
+    "formats": [
+      "subdivided"
+    ],
+    "classKeys": [],
+    "url": "https://d3p1dsef9f0gjr.cloudfront.net/"
+  },
+  {
+    "datasourceId": "global-clipping-eez-land-union",
+    "geo_type": "vector",
+    "formats": [
+      "subdivided"
+    ],
+    "classKeys": [],
+    "url": "https://d3muy0hbwp5qkl.cloudfront.net"
+  },
+  {
+    "datasourceId": "nearshore_boundary",
+    "geo_type": "vector",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": 1,
+          "sum": null,
+          "area": 114545576361.60097
+        }
+      }
+    },
+    "formats": [
+      "fgb"
+    ],
+    "layerName": "nearshore_boundary",
+    "classKeys": [],
+    "created": "2023-05-12T15:45:40.339Z",
+    "lastUpdated": "2023-05-12T16:37:19.966Z",
+    "src": "data/src/Analytics/nearshore_boundary.geojson",
+    "propertiesToKeep": []
+  }
+]
