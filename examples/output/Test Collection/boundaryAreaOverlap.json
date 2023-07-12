@@ -1,0 +1,165 @@
+{
+  "metrics": [
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "15593",
+      "classId": "nearshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1712770751.948155,
+      "extra": {
+        "sketchName": "Test Collection",
+        "isCollection": true
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "15594",
+      "classId": "nearshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 1615201408.274648,
+      "extra": {
+        "sketchName": "test1"
+      }
+    },
+    {
+      "metricId": "boundaryAreaOverlap",
+      "sketchId": "15595",
+      "classId": "nearshore",
+      "groupId": null,
+      "geographyId": null,
+      "value": 97569343.6735069,
+      "extra": {
+        "sketchName": "test2"
+      }
+    }
+  ],
+  "sketch": {
+    "id": 15593,
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "id": 15594,
+        "bbox": [
+          73.04595,
+          6.20722,
+          73.62351,
+          6.5063477
+        ],
+        "type": "Feature",
+        "properties": {
+          "3092": [
+            "FULLY_PROTECTED"
+          ],
+          "3093": "test1",
+          "id": "15594",
+          "name": "test1",
+          "postId": null,
+          "userId": "531",
+          "userSlug": "Abby",
+          "createdAt": "2023-07-12T21:00:44.547606+00:00",
+          "updatedAt": "2023-07-12T21:02:44.251217+00:00",
+          "designation": [
+            "FULLY_PROTECTED"
+          ],
+          "collectionId": "15593",
+          "isCollection": false,
+          "sharedInForum": false,
+          "sketchClassId": "231",
+          "userAttributes": [
+            {
+              "label": "Designation",
+              "value": [
+                "FULLY_PROTECTED"
+              ],
+              "exportId": "designation",
+              "fieldType": "MultipleChoice",
+              "valueLabel": [
+                "Fully Protected"
+              ],
+              "formElementId": 3092,
+              "alternateLanguages": {
+                "dv": {
+                  "label": "ޑެޒިގޭޝަން",
+                  "valueLabel": [
+                    "ފުރިހަމައަށް ރައްކާތެރިވެފައި"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "geometry": null
+      },
+      {
+        "id": 15595,
+        "bbox": [
+          72.5204,
+          6.1151333,
+          72.6312,
+          6.252214
+        ],
+        "type": "Feature",
+        "properties": {
+          "3092": [
+            "HIGHLY_PROTECTED"
+          ],
+          "3093": "test2",
+          "id": "15595",
+          "name": "test2",
+          "postId": null,
+          "userId": "531",
+          "userSlug": "Abby",
+          "createdAt": "2023-07-12T21:02:11.361569+00:00",
+          "updatedAt": "2023-07-12T21:02:28.002141+00:00",
+          "designation": [
+            "HIGHLY_PROTECTED"
+          ],
+          "collectionId": "15593",
+          "isCollection": false,
+          "sharedInForum": false,
+          "sketchClassId": "231",
+          "userAttributes": [
+            {
+              "label": "Designation",
+              "value": [
+                "HIGHLY_PROTECTED"
+              ],
+              "exportId": "designation",
+              "fieldType": "MultipleChoice",
+              "valueLabel": [
+                "Highly Protected"
+              ],
+              "formElementId": 3092,
+              "alternateLanguages": {
+                "dv": {
+                  "label": "ޑެޒިގޭޝަން",
+                  "valueLabel": [
+                    "ވަރަށް ބޮޑަށް ހިމާޔަތްކޮށްފައިވެ އެވެ"
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        "geometry": null
+      }
+    ],
+    "properties": {
+      "3098": "Test Collection",
+      "id": "15593",
+      "name": "Test Collection",
+      "postId": null,
+      "userId": "531",
+      "userSlug": "Abby",
+      "createdAt": "2023-07-12T21:00:19.517784+00:00",
+      "updatedAt": "2023-07-12T21:02:44.251217+00:00",
+      "collectionId": null,
+      "isCollection": true,
+      "sharedInForum": false,
+      "sketchClassId": "233",
+      "userAttributes": null
+    }
+  }
+}

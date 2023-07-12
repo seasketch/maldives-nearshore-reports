@@ -2,34 +2,67 @@
   "metrics": [
     {
       "metricId": "boundaryAreaOverlap",
-      "sketchId": "645e67868d22030925e0b7e4",
+      "sketchId": "15592",
       "classId": "nearshore",
       "groupId": null,
       "geographyId": null,
-      "value": 1768456005.8431938,
+      "value": 512634558.47156495,
       "extra": {
         "sketchName": "testing"
       }
     }
   ],
   "sketch": {
+    "id": 15592,
+    "bbox": [
+      73.51991,
+      4.8325896,
+      73.839424,
+      4.9988847
+    ],
     "type": "Feature",
     "properties": {
-      "id": "645e67868d22030925e0b7e4",
+      "3092": [
+        "HIGHLY_PROTECTED"
+      ],
+      "3093": "testing",
+      "id": "15592",
       "name": "testing",
-      "updatedAt": "2023-05-12T16:21:26.550Z",
-      "createdAt": "2023-05-12T16:21:26.550Z",
-      "sketchClassId": "60dd08af31c2945fed86b387",
+      "postId": null,
+      "userId": "531",
+      "userSlug": "Abby",
+      "createdAt": "2023-07-12T20:27:12.764897+00:00",
+      "updatedAt": "2023-07-12T20:27:12.764897+00:00",
+      "designation": [
+        "HIGHLY_PROTECTED"
+      ],
+      "collectionId": null,
       "isCollection": false,
-      "userAttributes": []
+      "sharedInForum": false,
+      "sketchClassId": "231",
+      "userAttributes": [
+        {
+          "label": "Designation",
+          "value": [
+            "HIGHLY_PROTECTED"
+          ],
+          "exportId": "designation",
+          "fieldType": "MultipleChoice",
+          "valueLabel": [
+            "Highly Protected"
+          ],
+          "formElementId": 3092,
+          "alternateLanguages": {
+            "dv": {
+              "label": "ޑެޒިގޭޝަން",
+              "valueLabel": [
+                "ވަރަށް ބޮޑަށް ހިމާޔަތްކޮށްފައިވެ އެވެ"
+              ]
+            }
+          }
+        }
+      ]
     },
-    "id": "1",
-    "bbox": [
-      72.17444113281168,
-      4.783116041722428,
-      72.74573019531152,
-      5.461544070811273
-    ],
     "geometry": null
   }
 }
