@@ -1,0 +1,40 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[
+          [
+            [
+              72.1,
+              2.3
+            ],
+            [
+              72.4,
+              2.3
+            ],
+            [
+              72.4,
+              2.6
+            ],
+            [
+              72.1,
+              2.6
+            ],
+            [
+              72.1,
+              2.3
+            ]
+          ]
+        ]]
+    },
+    "properties": {
+        "id": "60dd1b1931c2945fed86b3ad",
+        "name": "maldives-ne-ne_square",
+        "updatedAt": "2021-07-01T02:41:38.964Z",
+        "createdAt": "2021-07-01T01:32:09.470Z",
+        "sketchClassId": "60dd08af31c2945fed86b387",
+        "isCollection": false,
+        "userAttributes": []
+    },
+    "id": "1"    
+}

@@ -6,8 +6,4 @@ Once established, you can follow the tutorial to [setup an existing project on a
 
 ## Reference Notes
 
-This project uses data management [option ?](https://github.com/seasketch/geoprocessing/wiki/Tutorials#link-project-data)
-
-Data is sourced from the following locations: Box-Box/GIS/Waitt/Maldives_Blue_Prosperity/
-
-* ?
+Data is sourced from the following locations: GIS/Waitt/Maldives_Blue_Prosperity/

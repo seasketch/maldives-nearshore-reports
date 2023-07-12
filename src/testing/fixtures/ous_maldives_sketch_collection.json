@@ -1,0 +1,94 @@
+{
+    "type": "FeatureCollection",
+    "properties": {
+        "id": "627453ac1c322d157c04ee2d",
+        "name": "reservenetwork1",
+        "updatedAt": "2022-05-06T17:23:26.974Z",
+        "createdAt": "2022-05-05T22:46:04.417Z",
+        "sketchClassId": "60dd08af31c2945fed86b387",
+        "isCollection": true,
+        "userAttributes": []
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  72.6,
+                  3.0
+                ],
+                [
+                  72.6,
+                  2.0
+                ],
+                [
+                  72.8,
+                  2.0
+                ],
+                [
+                  72.8,
+                  3.0
+                ],
+                [
+                  72.6,
+                  3.0
+                ]
+              ]
+            ]
+        },
+        "properties": {
+            "id": "60dd1b1931c2945fed86b3ac",
+            "name": "maldives-ne-square",
+            "updatedAt": "2021-07-01T02:41:38.964Z",
+            "createdAt": "2021-07-01T01:32:09.470Z",
+            "sketchClassId": "60dd08af31c2945fed86b387",
+            "isCollection": false,
+            "userAttributes": []
+        },
+        "id": "1"    
+    },
+    {
+    "type": "Feature",
+    "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[
+          [
+            [
+              72.1,
+              2.3
+            ],
+            [
+              72.4,
+              2.3
+            ],
+            [
+              72.4,
+              2.6
+            ],
+            [
+              72.1,
+              2.6
+            ],
+            [
+              72.1,
+              2.3
+            ]
+          ]
+        ]]
+    },
+    "properties": {
+        "id": "60dd1b1931c2945fed86b3ad",
+        "name": "maldives-ne-ne_square",
+        "updatedAt": "2021-07-01T02:41:38.964Z",
+        "createdAt": "2021-07-01T01:32:09.470Z",
+        "sketchClassId": "60dd08af31c2945fed86b387",
+        "isCollection": false,
+        "userAttributes": []
+    },
+    "id": "1"    
+}
+    ]
+}

@@ -18,6 +18,7 @@
     "src/functions/clipToNearshore.ts"
   ],
   "geoprocessingFunctions": [
-    "src/functions/boundaryAreaOverlap.ts"
+    "src/functions/boundaryAreaOverlap.ts",
+    "src/functions/ousDemographicOverlap.ts"
   ]
 }
